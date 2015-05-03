@@ -1,0 +1,3 @@
+# euGENE
+
+[![Build Status](https://travis-ci.org/minimac93/euGENE.jl.svg?branch=master)](https://travis-ci.org/minimac93/euGENE.jl)
